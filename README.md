@@ -10,16 +10,16 @@ Our project aims to classify borrowers and predict whether they will be consider
 
 
 
-## the problem
+## The problem
 Given a person's credit-card information, we will build a few machine learning models that can classify the class of a specific individual into good or bad based on thier features.
 In the project we will use the data of a global company that collected basic bank details and gathered a lot of credit-related information.
 
 
-## the data
+## The data
 Our data is taken out of Kaggle. In the data there are various types of features . These features include both numerical and categorical variables. The dataset includes features such as customer demographics (age, gender, marital status), financial indicators (income, expenses, debt), credit history (number of previous loans, repayment behavior), employment details (occupation, employment length), and other relevant information.
 - in the data we have: 1000 rows, 21 columns
 
-#### the features
+#### The features
 Our dependent variable:
 - class (good/bad) Represents the credit risk associated with the customer.
 
